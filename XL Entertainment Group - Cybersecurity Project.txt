@@ -1,0 +1,78 @@
+﻿XL Entertainment Group - Cybersecurity Project
+
+
+
+
+
+
+Introduction
+
+
+XL Entertainment Group is a boutique record label with an attached recording studio in Atlanta, Georgia. The company has been experiencing malware and virus infections in their computers due to multiple people using them during the music recording process. This has affected the smooth running of the business, and the owners have contracted our company, Tank the Tech Pro LLC, to conduct a comprehensive cybersecurity project to identify, remove and prevent future malware infections in their systems.
+
+
+
+
+PROJECT SCOPE
+
+
+We will focus on conducting vulnerability scans on XL Entertainment Group's network using Qualys and Tenable scanners to detect any existing vulnerabilities and malware infections. We will also conduct a risk-based assessment of the company's operating model to track, monitor, and manage performance in regards to vulnerability identification, metrics reporting, and remediation efforts.
+
+
+
+
+
+
+PROJECT OBJECTIVES
+
+
+This project will have the following objectives:
+- Identify existing vulnerabilities and malware infections in the network
+- Develop and implement a risk-based operating model to track, monitor, and manage performance in regards to vulnerability identification, metrics reporting, and remediation efforts
+- Remove any malware and infected files from the network
+- Provide recommendations for the company's network policy, USB device, and internet downloading policies
+
+
+
+
+Project Execution
+
+
+Phase 1 - Vulnerability Scans
+
+
+We will conduct vulnerability scans on XL Entertainment Group's network using Qualys and Tenable scanners. This will help us identify any existing vulnerabilities and malware infections in the network.
+
+
+Phase 2 - Risk Assessment
+
+
+We will conduct a risk-based assessment of the company's operating model to track, monitor, and manage performance in regards to vulnerability identification, metrics reporting, and remediation efforts. This will involve reviewing the company's existing policies and procedures related to network security and identifying any gaps that need to be addressed.
+
+
+Phase 3 - Malware Removal
+
+
+We will remove any identified malware and infected files from the network to ensure that the network is secure and free from any malicious files.
+
+
+Phase 4 - Network Policy Recommendations
+
+
+We will provide recommendations for the company's network policy, USB device, and internet downloading policies. These recommendations will be based on industry best practices and will aim to prevent future malware infections.
+
+
+Deliverables
+
+
+The deliverables for this project will include:
+
+
+1. A report detailing the vulnerabilities and malware infections identified in the network
+2. A risk-based operating model to track, monitor, and manage performance in regards to vulnerability identification, metrics reporting, and remediation efforts
+3. A list of malware and infected files removed from the network
+4. Recommendations for the company's network policy, USB device, and internet downloading policies
+
+
+Conclusion
+This project will help XL Entertainment Group to identify, remove and prevent future malware infections in their systems. By implementing the recommended policies and procedures, the company will be better equipped to deal with cybersecurity threats and protect their network from future attacks.

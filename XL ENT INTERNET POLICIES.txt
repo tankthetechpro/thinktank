@@ -1,0 +1,28 @@
+﻿STAFF,
+
+
+We recently discovered that several of our computers have been infected with malware, which has caused significant damage to our business operations. Upon further investigation, we found that the malware was introduced into our systems through the use of USB drives and downloads from unknown sources.
+
+
+As a result, we have decided to implement new guidelines for internet use and an outside USB device policy to prevent this from happening again. We understand that these guidelines may seem restrictive, but we believe that they are necessary to protect our business and our employees.
+
+
+Internet Use Guidelines:
+1. Employees must only use XL Entertainment Group-approved software and websites for work-related purposes.
+2. Employees must not visit any websites that are known to contain malware or viruses.
+3. Employees must not download any files from websites that are not approved by XL Entertainment Group.
+4. Employees must not use any peer-to-peer file sharing software or websites.
+
+
+Outside USB Device Policy:
+1. Employees must not use any USB drives or other external storage devices that are not provided by XL Entertainment Group.
+2. Employees must scan any external storage devices with an approved malware scanner before use.
+3. Employees must not use any external storage devices that have been used on another computer without prior approval.
+
+
+We understand that these guidelines may seem restrictive, but they are in place to protect our business and our employees. We appreciate your cooperation in implementing these guidelines.
+
+
+
+
+XL MGMT
